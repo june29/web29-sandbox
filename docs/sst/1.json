@@ -1,0 +1,23 @@
+{
+  "name": "SampleShibuyaToken",
+  "description": "Sample Shibuya Token",
+  "image": "https://june29.github.io/web29-sandbox/sst/sst001.jpg",
+  "attributes": [
+    {
+      "trait_type": "名前",
+      "value": "おおわだ じゅん"
+    },
+    {
+      "trait_type": "コース",
+      "value": "ソフトウェアデザイン"
+    },
+    {
+      "trait_type": "期",
+      "value": "1"
+    },
+    {
+      "trait_type": "日付",
+      "value": "2022-12-20"
+    },
+  ]
+}
