@@ -1,7 +1,7 @@
 {
-  "name": "SST #1",
+  "name": "SST #2",
   "description": "Sample Shibuya Token",
-  "image": "https://june29.github.io/web29-sandbox/sst/sst001.jpg",
+  "image": "https://june29.github.io/web29-sandbox/sst/sst002.jpg",
   "attributes": [
     {
       "trait_type": "名前",
@@ -9,7 +9,7 @@
     },
     {
       "trait_type": "コース",
-      "value": "ソフトウェアデザイン"
+      "value": "ウェブアプリケーション開発"
     },
     {
       "trait_type": "期",
